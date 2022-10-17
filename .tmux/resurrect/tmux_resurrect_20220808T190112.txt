@@ -1,0 +1,23 @@
+pane	0	1	:bash	1	:*	0	:/Users/oleksandr	1	ssh-add	:ssh-add /Users/oleksandr/.ssh/id_ecdsa
+pane	1	1	:zsh	1	:*	0	:/Users/oleksandr	1	ssh-add	:ssh-add /Users/oleksandr/.ssh/id_ecdsa
+pane	work	1	:zsh	0	:	0	:/Users/oleksandr	1	zsh	:
+pane	work	2	:zsh	0	:	0	:/Users/oleksandr	1	zsh	:
+pane	work	3	:zsh	0	:	0	:/Users/oleksandr	1	zsh	:
+pane	work	4	:zsh	0	:	0	:/Users/oleksandr	1	zsh	:
+pane	work	5	:zsh	0	:	0	:/Users/oleksandr	1	zsh	:
+pane	work	6	:zsh	0	:	0	:/Users/oleksandr	1	zsh	:
+pane	work	7	:zsh	0	:	0	:/Users/oleksandr	1	zsh	:
+pane	work	8	:zsh	0	:-	0	:/Users/oleksandr	1	zsh	:
+pane	work	9	:zsh	1	:*	0	:/Users/oleksandr	1	zsh	:
+window	0	1	1	:*	cfbe,150x49,0,0,1
+window	1	1	1	:*	cfbf,150x49,0,0,2
+window	work	1	0	:	e812,150x49,0,0,23
+window	work	2	0	:	e813,150x49,0,0,24
+window	work	3	0	:	e814,150x49,0,0,25
+window	work	4	0	:	e815,150x49,0,0,26
+window	work	5	0	:	e816,150x49,0,0,27
+window	work	6	0	:	e817,150x49,0,0,28
+window	work	7	0	:	e818,150x49,0,0,29
+window	work	8	0	:-	6810,150x49,0,0,30
+window	work	9	1	:*	6811,150x49,0,0,31
+state	work	

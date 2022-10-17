@@ -1,0 +1,9 @@
+pane	0	1	:bash	1	:*	0	:/Users/oleksandr	1	ssh-add	:ssh-add /Users/oleksandr/.ssh/id_ecdsa
+pane	1	1	:zsh	1	:*	0	:/Users/oleksandr	1	ssh-add	:ssh-add /Users/oleksandr/.ssh/id_ecdsa
+pane	3	1	:bash	1	:*	0	:/Users/oleksandr	1	ssh-add	:ssh-add /Users/oleksandr/.ssh/id_ecdsa
+pane	work	1	:zsh	1	:*	0	:/Users/oleksandr	1	zsh	:
+window	0	1	1	:*	cfbe,150x49,0,0,1
+window	1	1	1	:*	cfbf,150x49,0,0,2
+window	3	1	1	:*	cfc0,150x49,0,0,3
+window	work	1	1	:*	e811,150x49,0,0,22
+state	work	
